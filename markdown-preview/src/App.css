@@ -1,0 +1,23 @@
+body {
+  background-color: #1abc9c;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+  display: inline-block;
+}
+
+.preview {
+  background-color: white;
+  padding: 30px;
+}
+
+.preview img {
+  max-width: 80px;
+}
+
+li {
+  display: block;
+}
