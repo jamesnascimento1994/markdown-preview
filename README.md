@@ -12,7 +12,7 @@ An app that generates text into a markdown. Users can create readme-like file ma
 
 ## Technologies Used
 
-- Programming Languages: CSS, JavaScript
+- Programming Languages: HTML, CSS, JavaScript
 - Frameworks/Libraries: React, Bootstrap, Marked
 
 App deployed on Heroku
