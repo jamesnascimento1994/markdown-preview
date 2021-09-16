@@ -18,3 +18,8 @@ An app that generates text into a markdown. Users can create readme-like file ma
 App deployed on Heroku
 
 https://mysterious-fortress-74020.herokuapp.com/
+
+## Credits
+
+- This is the second project requirement for freeCodeCamp's Frontend Development Libraries Certification. You can view that part of the curriculum here: https://www.freecodecamp.org/learn/front-end-development-libraries/
+- The CodePen that I took inspiration from: https://codepen.io/freeCodeCamp/full/GrZVVO
